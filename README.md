@@ -1,3 +1,3 @@
 # Kmeans
-K-means Clustering Algorithm Implentation.
+Reference -
 https://www.datascience.com/blog/k-means-clustering
